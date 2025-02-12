@@ -1,7 +1,7 @@
 Command Line Arguments:
-     dir = uploaded_images/ 
+    dir = uploaded_images/ 
     arch = shalnet 
- dogfile = dognames.txt
+dogfile = dognames.txt
 
 All key-value dictionary results_dic are :
 

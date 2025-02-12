@@ -4,7 +4,6 @@ This project was part of the AI-Programming with Python Nanodregree by Udacity.
 ## Principal Objectives:
 This project focuses on analyzing and comparing various image classification algorithms using Python.
 The key goal is to identify the most effective model for distinguishing between images of dogs and non-dogs while also evaluating accuracy in recognizing specific dog breeds.
-Additionally, the study considers the computational efficiency of each algorithm to determine the best-performing convolutional neural network (CNN) architecture among ResNet, prinet, and shalnet.
 
 ### Project outline:
 1. Measure Execution Time – Utilize Python's time module to track the total runtime of the program.

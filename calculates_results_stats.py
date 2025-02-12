@@ -1,4 +1,3 @@
-# Function: calculates_results_stats(results_dic)
 def calculates_results_stats(results_dic):
    
 # Creates empty dictionary for results_stats_dic
@@ -26,8 +25,6 @@ def calculates_results_stats(results_dic):
         if results_dic[key][3] == 1:
             results_stats_dic['n_dogs_img'] += 1
             
-            # Classifier classifies image as Dog (& pet image is a dog)
-            # counts number of correct dog classifications
             if results_dic[key][4] == 1:
                 results_stats_dic['n_correct_dogs'] += 1
 
@@ -35,9 +32,6 @@ def calculates_results_stats(results_dic):
         else:
             if results_dic[key][4] == 0:
                 results_stats_dic['n_correct_notdogs'] += 1
-            # Classifier classifies image as NOT a Dog(& pet image isn't a dog)
-            # counts number of correct NOT dog clasifications.
-
         
     # calculates number of total images
     results_stats_dic['n_images'] = len(results_dic)
