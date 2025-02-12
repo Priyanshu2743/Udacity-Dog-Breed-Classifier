@@ -120,4 +120,4 @@ INCORRECT Dog Breed Assignment:
 Real:                        dog   Classifier:                      chihuahua
 Real:                        dog   Classifier:             labrador retriever
 
-** Total Elapsed Runtime: 0:0:9
+** Total Elapsed Runtime: 0:0:5

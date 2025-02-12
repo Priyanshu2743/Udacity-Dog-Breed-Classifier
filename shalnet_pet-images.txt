@@ -414,4 +414,4 @@ INCORRECT Dog Breed Assignment:
 Real:                     beagle   Classifier:  walker hound, walker foxhound
 Real:             great pyrenees   Classifier:                         kuvasz
 
-** Total Elapsed Runtime: 0:1:35
+** Total Elapsed Runtime: 0:1:15

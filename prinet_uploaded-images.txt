@@ -119,4 +119,4 @@ pct_correct_notdogs: 100.0
 INCORRECT Dog Breed Assignment:
 Real:                        dog   Classifier:             labrador retriever
 
-** Total Elapsed Runtime: 0:0:1
+** Total Elapsed Runtime: 0:0:2
